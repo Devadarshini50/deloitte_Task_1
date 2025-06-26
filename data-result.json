@@ -1,0 +1,11 @@
+{
+  "device": "device1",
+  "ts": 1735689600000,  
+  "co": 0.5,            
+  "humidity": 50.0,
+  "temp": 20.0,
+  "light": true,
+  "lpg": 0.1,
+  "motion": false,
+  "smoke": 0.01
+}

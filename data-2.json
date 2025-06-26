@@ -1,0 +1,11 @@
+{
+  "device_id": "device2",
+  "timestamp": 1735689600000,  
+  "carbon_monoxide": 0.6,
+  "humidity": 45.0,
+  "temperature": 22.0,
+  "light_detected": true,
+  "lpg": 0.05,
+  "motion_detected": false,
+  "smoke_level": 0.02
+}
